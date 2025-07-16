@@ -28,7 +28,7 @@ No frameworks, no libraries — just good old frontend fun.
 
 ## 📸 Preview
 
-![404 Preview](https://github.com/Zoha-Shabbir/Motivation-Not-Found/blob/main/preview.PNG)  
+![404 Preview]([previe.png](https://github.com/Zoha-Shabbir/Motivation-Not-Found/blob/main/preview.PNG))  
 
 
 
